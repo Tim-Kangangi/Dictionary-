@@ -1,3 +1,5 @@
+https://github.com/Tim-Kangangi/Dictionary-.git
+
  Wordly Dictionary-Project Overview
 
 Wordly Dictionary is a simple and interactive web-based dictionary application that allows users to search for English words and instantly view their definition and pronunciation. The project is built using HTML, CSS, and JavaScript.
